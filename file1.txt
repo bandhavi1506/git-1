@@ -1,7 +1,6 @@
 helllooooo
-<<<<<<< HEAD
+HEAD
 how u doingggg
-=======
 thissss issss meeee
->>>>>>> feature1
+feature1
 am doing good
