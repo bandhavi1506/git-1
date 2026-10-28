@@ -1,2 +1,7 @@
 helllooooo
+<<<<<<< HEAD
 how u doingggg
+=======
+thissss issss meeee
+>>>>>>> feature1
+am doing good
